@@ -16,7 +16,7 @@ body{
      
 }
 body{
-    background-image: url(../hc06_recap/img/background_image__720.jpg);
+    background-image: url(/img/background_image__720.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
